@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "target_pages": [
+    "Rami Almasri",
+    "Rami Almasri Plus"
+  ],
+  "videos": {
+    "jyhvZ3bOKhM": {
+      "slug": "deepwater",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/deepwater/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1543855631100228",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1543855631100228",
+          "link_verified": true,
+          "published_at": "2026-10-07T23:05:38+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1562212549263360",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1562212549263360",
+          "link_verified": true,
+          "published_at": "2026-10-07T23:05:43+03:00"
+        }
+      },
+      "archive_complete": true
+    }
+  },
+  "runs": []
+}

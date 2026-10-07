@@ -1,0 +1,50 @@
+{
+  "count": 5,
+  "videos": [
+    {
+      "video_id": "jyhvZ3bOKhM",
+      "slug": "deepwater",
+      "title": "Deepwater Horizon: How One Blowout Became an 87-Day Disaster",
+      "title_ar": "ديب ووتر هورايزن: كيف تحول انفجار واحد إلى كارثة استمرت 87 يوماً",
+      "description_ar": "ديب ووتر هورايزن: كيف تحول انفجار واحد إلى كارثة استمرت 87 يوماً. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-07T16:56:44Z",
+      "duration": "PT9M5S"
+    },
+    {
+      "video_id": "RsBTWYqpMTE",
+      "slug": "the-f1-software-bug-that-stopped-cars-before-t-rsbtwy",
+      "title": "The F1 Software Bug That Stopped Cars Before the Race",
+      "title_ar": "ثغرة برمجية في سيارات الفورمولا 1 أوقفت السباق قبل بدايته",
+      "description_ar": "ثغرة برمجية في سيارات الفورمولا 1 أوقفت السباق قبل بدايته. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-05T17:30:20Z",
+      "duration": "PT10M"
+    },
+    {
+      "video_id": "2fe6c1IGF4Q",
+      "slug": "why-we-may-never-meet-aliens-even-if-the-galax-2fe6c1",
+      "title": "Why We May Never Meet Aliens — Even If the Galaxy Is Full of Life",
+      "title_ar": "لماذا قد لا نقابل الفضائيين أبدًا — حتى وإن كانت المجرة تعج بالحياة",
+      "description_ar": "لماذا قد لا نقابل الفضائيين أبدًا — حتى وإن كانت المجرة تعج بالحياة. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-04T17:30:06Z",
+      "duration": "PT8M21S"
+    },
+    {
+      "video_id": "jrztu9qF83k",
+      "slug": "what-if-gps-went-dark-for-24-hours-jrztu9",
+      "title": "What If GPS Went Dark for 24 Hours?",
+      "title_ar": "ماذا لو توقفت خدمة نظام تحديد المواقع (GPS) لمدة 24 ساعة؟",
+      "description_ar": "ماذا لو توقفت خدمة نظام تحديد المواقع (GPS) لمدة 24 ساعة؟. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-03T17:09:44Z",
+      "duration": "PT7M34S"
+    },
+    {
+      "video_id": "sj4vkraU5qE",
+      "slug": "what-if-the-internet-went-dark-for-24-hours-ho-sj4vkr",
+      "title": "What If the Internet Went Dark for 24 Hours? (Hour by Hour)",
+      "title_ar": "ماذا لو انقطع الإنترنت لمدة 24 ساعة؟ (ساعة بساعة)",
+      "description_ar": "ماذا لو انقطع الإنترنت لمدة 24 ساعة؟ (ساعة بساعة). شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-02T17:52:35Z",
+      "duration": "PT8M36S"
+    }
+  ]
+}

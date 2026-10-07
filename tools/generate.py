@@ -3,7 +3,7 @@ from pathlib import Path
 import html, json
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://ramialmasri5.github.io/factbook-links"
-DATA = json.loads((ROOT / "data/videos.json").read_text(encoding="utf-8"))
+DATA = json.loads((ROOT / "data/archive.json").read_text(encoding="utf-8"))
 TPL = '''<!doctype html>
 <html lang="ar" dir="rtl">
 <head>

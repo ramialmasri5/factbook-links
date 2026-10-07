@@ -1,0 +1,46 @@
+name: Fact Book Archive Distribution
+
+on:
+  schedule:
+    - cron: "30 7,8,17,18 * * *"
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: Force Beirut slot
+        required: false
+        type: choice
+        options:
+          - morning
+          - evening
+
+jobs:
+  distribute:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+      META_GRAPH_VERSION: v26.0
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run archive distributor
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then
+            python3 tools/archive_runner.py --slot "${{ inputs.slot }}"
+          else
+            python3 tools/archive_runner.py
+          fi
+
+      - name: Persist ledger
+        if: always()
+        run: |
+          git config user.name "Fact Book Automation"
+          git config user.email "ramialmasri5@users.noreply.github.com"
+          git add data/distribution-ledger.json
+          if git diff --cached --quiet; then
+            echo "No ledger changes"
+          else
+            git commit -m "Update distribution ledger"
+            git push
+          fi
