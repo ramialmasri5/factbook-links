@@ -25,7 +25,41 @@
         }
       },
       "archive_complete": true
+    },
+    "RsBTWYqpMTE": {
+      "slug": "the-f1-software-bug-that-stopped-cars-before-t-rsbtwy",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/the-f1-software-bug-that-stopped-cars-before-t-rsbtwy/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1544244044394720",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1544244044394720",
+          "link_verified": true,
+          "published_at": "2026-10-08T10:30:39+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1562620972555851",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1562620972555851",
+          "link_verified": true,
+          "published_at": "2026-10-08T10:30:48+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-08T10:30:48+03:00"
     }
   },
-  "runs": []
+  "runs": [
+    {
+      "date": "2026-10-08",
+      "at": "2026-10-08T10:30:48+03:00",
+      "slot": "morning",
+      "video_id": "RsBTWYqpMTE",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/the-f1-software-bug-that-stopped-cars-before-t-rsbtwy/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    }
+  ]
 }
