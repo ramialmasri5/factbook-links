@@ -69,6 +69,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-08T20:30:19+03:00"
+    },
+    "jrztu9qF83k": {
+      "slug": "what-if-gps-went-dark-for-24-hours-jrztu9",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/what-if-gps-went-dark-for-24-hours-jrztu9/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1545180557634402",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1545180557634402",
+          "link_verified": true,
+          "published_at": "2026-10-09T10:30:32+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1563602312457717",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1563602312457717",
+          "link_verified": true,
+          "published_at": "2026-10-09T10:30:39+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-09T10:30:39+03:00"
     }
   },
   "runs": [
@@ -89,6 +111,17 @@
       "slot": "evening",
       "video_id": "2fe6c1IGF4Q",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/why-we-may-never-meet-aliens-even-if-the-galax-2fe6c1/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "at": "2026-10-09T10:30:39+03:00",
+      "slot": "morning",
+      "video_id": "jrztu9qF83k",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/what-if-gps-went-dark-for-24-hours-jrztu9/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
