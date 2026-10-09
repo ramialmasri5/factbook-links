@@ -91,6 +91,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-09T10:30:39+03:00"
+    },
+    "sj4vkraU5qE": {
+      "slug": "what-if-the-internet-went-dark-for-24-hours-ho-sj4vkr",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/what-if-the-internet-went-dark-for-24-hours-ho-sj4vkr/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1545629244256200",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1545629244256200",
+          "link_verified": true,
+          "published_at": "2026-10-09T20:30:19+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1564040975747184",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1564040975747184",
+          "link_verified": true,
+          "published_at": "2026-10-09T20:30:24+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-09T20:30:24+03:00"
     }
   },
   "runs": [
@@ -122,6 +144,17 @@
       "slot": "morning",
       "video_id": "jrztu9qF83k",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/what-if-gps-went-dark-for-24-hours-jrztu9/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "at": "2026-10-09T20:30:24+03:00",
+      "slot": "evening",
+      "video_id": "sj4vkraU5qE",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/what-if-the-internet-went-dark-for-24-hours-ho-sj4vkr/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
