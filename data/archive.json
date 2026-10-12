@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 7,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -45,6 +45,24 @@
       "description_ar": "ماذا لو انقطع الإنترنت لمدة 24 ساعة؟ (ساعة بساعة). شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-02T17:52:35Z",
       "duration": "PT8M36S"
+    },
+    {
+      "video_id": "YSaLFXQbIQE",
+      "slug": "the-30-trillion-ai-bet-what-happens-if-it-does-ysalfx",
+      "title": "The $30 Trillion AI Bet: What Happens If It Doesn’t Pay Off?",
+      "title_ar": "رهان الـ 30 تريليون دولار على الذكاء الاصطناعي: ماذا لو لم يؤتِ ثماره؟",
+      "description_ar": "رهان الـ 30 تريليون دولار على الذكاء الاصطناعي: ماذا لو لم يؤتِ ثماره؟. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-09T17:30:21Z",
+      "duration": "PT11M16S"
+    },
+    {
+      "video_id": "QXf9UGoElGI",
+      "slug": "chernobyl-the-night-reactor-4-exploded-and-the-qxf9ug",
+      "title": "Chernobyl: The Night Reactor 4 Exploded — And the City That Kept Living",
+      "title_ar": "تشيرنوبيل: ليلة انفجار المفاعل رقم 4.. والمدينة التي ظلت غافلة",
+      "description_ar": "تشيرنوبيل: ليلة انفجار المفاعل رقم 4.. والمدينة التي ظلت غافلة. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-11T17:30:11Z",
+      "duration": "PT6M58S"
     }
   ]
 }
