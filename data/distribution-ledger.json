@@ -113,6 +113,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-09T20:30:24+03:00"
+    },
+    "YSaLFXQbIQE": {
+      "slug": "the-30-trillion-ai-bet-what-happens-if-it-does-ysalfx",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/the-30-trillion-ai-bet-what-happens-if-it-does-ysalfx/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1548505847301873",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1548505847301873",
+          "link_verified": true,
+          "published_at": "2026-10-12T20:30:36+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1566976135453668",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1566976135453668",
+          "link_verified": true,
+          "published_at": "2026-10-12T20:30:42+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-12T20:30:42+03:00"
     }
   },
   "runs": [
@@ -155,6 +177,17 @@
       "slot": "evening",
       "video_id": "sj4vkraU5qE",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/what-if-the-internet-went-dark-for-24-hours-ho-sj4vkr/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "at": "2026-10-12T20:30:42+03:00",
+      "slot": "evening",
+      "video_id": "YSaLFXQbIQE",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/the-30-trillion-ai-bet-what-happens-if-it-does-ysalfx/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
