@@ -135,6 +135,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-12T20:30:42+03:00"
+    },
+    "QXf9UGoElGI": {
+      "slug": "chernobyl-the-night-reactor-4-exploded-and-the-qxf9ug",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/chernobyl-the-night-reactor-4-exploded-and-the-qxf9ug/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1549053807247077",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1549053807247077",
+          "link_verified": true,
+          "published_at": "2026-10-13T10:30:36+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1567537155397566",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1567537155397566",
+          "link_verified": true,
+          "published_at": "2026-10-13T10:30:42+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-13T10:30:42+03:00"
     }
   },
   "runs": [
@@ -188,6 +210,17 @@
       "slot": "evening",
       "video_id": "YSaLFXQbIQE",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/the-30-trillion-ai-bet-what-happens-if-it-does-ysalfx/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "at": "2026-10-13T10:30:42+03:00",
+      "slot": "morning",
+      "video_id": "QXf9UGoElGI",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/chernobyl-the-night-reactor-4-exploded-and-the-qxf9ug/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
