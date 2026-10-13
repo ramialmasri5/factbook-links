@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 9,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -72,6 +72,15 @@
       "description_ar": "6 ألغاز كونية لا يزال العلم عاجزاً عن تفسيرها بالكامل. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-12T17:30:35Z",
       "duration": "PT8M33S"
+    },
+    {
+      "video_id": "dQfSFJG1xQU",
+      "slug": "air-france-447-how-a-modern-airliner-vanished-dqfsfj",
+      "title": "Air France 447: How a Modern Airliner Vanished Over the Atlantic",
+      "title_ar": "رحلة طيران فرنسا 447: كيف اختفت طائرة ركاب حديثة فوق المحيط الأطلسي",
+      "description_ar": "رحلة طيران فرنسا 447: كيف اختفت طائرة ركاب حديثة فوق المحيط الأطلسي. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-13T17:30:11Z",
+      "duration": "PT9M19S"
     }
   ]
 }
