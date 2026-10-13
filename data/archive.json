@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 8,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -63,6 +63,15 @@
       "description_ar": "تشيرنوبيل: ليلة انفجار المفاعل رقم 4.. والمدينة التي ظلت غافلة. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-11T17:30:11Z",
       "duration": "PT6M58S"
+    },
+    {
+      "video_id": "WEaHdQIg9a0",
+      "slug": "6-cosmic-mysteries-science-still-can-t-fully-e-weahdq",
+      "title": "6 Cosmic Mysteries Science Still Can’t Fully Explain",
+      "title_ar": "6 ألغاز كونية لا يزال العلم عاجزاً عن تفسيرها بالكامل",
+      "description_ar": "6 ألغاز كونية لا يزال العلم عاجزاً عن تفسيرها بالكامل. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-12T17:30:35Z",
+      "duration": "PT8M33S"
     }
   ]
 }
