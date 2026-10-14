@@ -179,6 +179,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-13T20:30:29+03:00"
+    },
+    "dQfSFJG1xQU": {
+      "slug": "air-france-447-how-a-modern-airliner-vanished-dqfsfj",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/air-france-447-how-a-modern-airliner-vanished-dqfsfj/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1550036043815520",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1550036043815520",
+          "link_verified": true,
+          "published_at": "2026-10-14T10:30:15+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1568531278631487",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1568531278631487",
+          "link_verified": true,
+          "published_at": "2026-10-14T10:30:20+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-14T10:30:20+03:00"
     }
   },
   "runs": [
@@ -254,6 +276,17 @@
       "slot": "evening",
       "video_id": "WEaHdQIg9a0",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/6-cosmic-mysteries-science-still-can-t-fully-e-weahdq/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "at": "2026-10-14T10:30:20+03:00",
+      "slot": "morning",
+      "video_id": "dQfSFJG1xQU",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/air-france-447-how-a-modern-airliner-vanished-dqfsfj/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
