@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -81,6 +81,15 @@
       "description_ar": "رحلة طيران فرنسا 447: كيف اختفت طائرة ركاب حديثة فوق المحيط الأطلسي. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-13T17:30:11Z",
       "duration": "PT9M19S"
+    },
+    {
+      "video_id": "nJ4EkrfBVUg",
+      "slug": "mount-st-helens-1980-the-morning-a-mountain-ex-nj4ekr",
+      "title": "Mount St. Helens 1980: The Morning a Mountain Exploded Sideways",
+      "title_ar": "جبل سانت هيلينز 1980: الصباح الذي انفجر فيه الجبل جانبياً",
+      "description_ar": "جبل سانت هيلينز 1980: الصباح الذي انفجر فيه الجبل جانبياً. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-14T17:30:04Z",
+      "duration": "PT8M59S"
     }
   ]
 }
