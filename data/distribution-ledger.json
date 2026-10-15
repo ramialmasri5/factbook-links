@@ -201,6 +201,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-14T10:30:20+03:00"
+    },
+    "nJ4EkrfBVUg": {
+      "slug": "mount-st-helens-1980-the-morning-a-mountain-ex-nj4ekr",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/mount-st-helens-1980-the-morning-a-mountain-ex-nj4ekr/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1551032007049257",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1551032007049257",
+          "link_verified": true,
+          "published_at": "2026-10-15T10:30:15+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1569546088530006",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1569546088530006",
+          "link_verified": true,
+          "published_at": "2026-10-15T10:30:26+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-15T10:30:26+03:00"
     }
   },
   "runs": [
@@ -287,6 +309,17 @@
       "slot": "morning",
       "video_id": "dQfSFJG1xQU",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/air-france-447-how-a-modern-airliner-vanished-dqfsfj/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "at": "2026-10-15T10:30:26+03:00",
+      "slot": "morning",
+      "video_id": "nJ4EkrfBVUg",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/mount-st-helens-1980-the-morning-a-mountain-ex-nj4ekr/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
