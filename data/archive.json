@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 12,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -99,6 +99,15 @@
       "description_ar": "أبولو 13: كيف نجا ثلاثة رواد فضاء من المستحيل (1970). شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-17T17:30:11Z",
       "duration": "PT13M4S"
+    },
+    {
+      "video_id": "ex0h36mVBfc",
+      "slug": "space-shuttle-challenger-73-seconds-to-disaste-ex0h36",
+      "title": "Space Shuttle Challenger: 73 Seconds to Disaster (1986)",
+      "title_ar": "مكوك الفضاء تشالنجر: 73 ثانية نحو الكارثة (1986)",
+      "description_ar": "مكوك الفضاء تشالنجر: 73 ثانية نحو الكارثة (1986). شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-21T17:30:33Z",
+      "duration": "PT10M40S"
     }
   ]
 }
