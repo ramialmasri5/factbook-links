@@ -245,6 +245,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-18T20:30:45+03:00"
+    },
+    "ex0h36mVBfc": {
+      "slug": "space-shuttle-challenger-73-seconds-to-disaste-ex0h36",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/space-shuttle-challenger-73-seconds-to-disaste-ex0h36/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1558631226289335",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1558631226289335",
+          "link_verified": true,
+          "published_at": "2026-10-22T20:30:15+03:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1576758811142067",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1576758811142067",
+          "link_verified": true,
+          "published_at": "2026-10-22T20:30:22+03:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-22T20:30:22+03:00"
     }
   },
   "runs": [
@@ -353,6 +375,17 @@
       "slot": "evening",
       "video_id": "AnB5T7kW7z8",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/apollo-13-how-three-astronauts-survived-the-im-anb5t7/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "at": "2026-10-22T20:30:22+03:00",
+      "slot": "evening",
+      "video_id": "ex0h36mVBfc",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/space-shuttle-challenger-73-seconds-to-disaste-ex0h36/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
