@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -108,6 +108,15 @@
       "description_ar": "مكوك الفضاء تشالنجر: 73 ثانية نحو الكارثة (1986). شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-21T17:30:33Z",
       "duration": "PT10M40S"
+    },
+    {
+      "video_id": "SCI53SGIftw",
+      "slug": "san-francisco-1906-the-earthquake-was-only-the-sci53s",
+      "title": "San Francisco 1906: The Earthquake Was Only the Beginning | Fact Book",
+      "title_ar": "سان فرانسيسكو 1906: الزلزال كان مجرد البداية | كتاب الحقائق",
+      "description_ar": "سان فرانسيسكو 1906: الزلزال كان مجرد البداية | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-25T18:30:31Z",
+      "duration": "PT8M8S"
     }
   ]
 }
