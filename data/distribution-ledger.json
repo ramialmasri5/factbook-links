@@ -267,6 +267,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-22T20:30:22+03:00"
+    },
+    "SCI53SGIftw": {
+      "slug": "san-francisco-1906-the-earthquake-was-only-the-sci53s",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/san-francisco-1906-the-earthquake-was-only-the-sci53s/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1562610555891402",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1562610555891402",
+          "link_verified": true,
+          "published_at": "2026-10-26T20:30:35+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1580818184069463",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1580818184069463",
+          "link_verified": true,
+          "published_at": "2026-10-26T20:30:39+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-26T20:30:39+02:00"
     }
   },
   "runs": [
@@ -386,6 +408,17 @@
       "slot": "evening",
       "video_id": "ex0h36mVBfc",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/space-shuttle-challenger-73-seconds-to-disaste-ex0h36/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "at": "2026-10-26T20:30:39+02:00",
+      "slot": "evening",
+      "video_id": "SCI53SGIftw",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/san-francisco-1906-the-earthquake-was-only-the-sci53s/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
