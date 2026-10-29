@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -117,6 +117,15 @@
       "description_ar": "سان فرانسيسكو 1906: الزلزال كان مجرد البداية | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-25T18:30:31Z",
       "duration": "PT8M8S"
+    },
+    {
+      "video_id": "riBnFMqWqHo",
+      "slug": "life-without-sunlight-the-secret-world-of-blac-ribnfm",
+      "title": "Life Without Sunlight: The Secret World of Black Smokers | Fact Book",
+      "title_ar": "حياة بلا ضوء شمس: العالم السري للمداخن الحرارية | كتاب الحقائق",
+      "description_ar": "حياة بلا ضوء شمس: العالم السري للمداخن الحرارية | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-10-29T18:30:00Z",
+      "duration": "PT8M36S"
     }
   ]
 }
