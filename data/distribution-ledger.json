@@ -289,6 +289,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-26T20:30:39+02:00"
+    },
+    "riBnFMqWqHo": {
+      "slug": "life-without-sunlight-the-secret-world-of-blac-ribnfm",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/life-without-sunlight-the-secret-world-of-blac-ribnfm/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1566375788848212",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1566375788848212",
+          "link_verified": true,
+          "published_at": "2026-10-30T10:30:14+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1584612813690000",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1584612813690000",
+          "link_verified": true,
+          "published_at": "2026-10-30T10:30:20+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-10-30T10:30:20+02:00"
     }
   },
   "runs": [
@@ -419,6 +441,17 @@
       "slot": "evening",
       "video_id": "SCI53SGIftw",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/san-francisco-1906-the-earthquake-was-only-the-sci53s/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "at": "2026-10-30T10:30:20+02:00",
+      "slot": "morning",
+      "video_id": "riBnFMqWqHo",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/life-without-sunlight-the-secret-world-of-blac-ribnfm/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
