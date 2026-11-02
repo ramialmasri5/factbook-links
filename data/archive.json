@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 15,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -126,6 +126,15 @@
       "description_ar": "حياة بلا ضوء شمس: العالم السري للمداخن الحرارية | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-10-29T18:30:00Z",
       "duration": "PT8M36S"
+    },
+    {
+      "video_id": "SCelXVWWWiU",
+      "slug": "columbia-sts-107-the-damage-nobody-could-see-f-scelxv",
+      "title": "Columbia STS-107: The Damage Nobody Could See | Fact Book",
+      "title_ar": "كولومبيا STS-107: الضرر الذي لم يره أحد | كتاب الحقائق",
+      "description_ar": "كولومبيا STS-107: الضرر الذي لم يره أحد | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-11-02T18:30:10Z",
+      "duration": "PT9M24S"
     }
   ]
 }
