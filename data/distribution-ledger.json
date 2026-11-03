@@ -311,6 +311,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-10-30T10:30:20+02:00"
+    },
+    "SCelXVWWWiU": {
+      "slug": "columbia-sts-107-the-damage-nobody-could-see-f-scelxv",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/columbia-sts-107-the-damage-nobody-could-see-f-scelxv/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1570621568423634",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1570621568423634",
+          "link_verified": true,
+          "published_at": "2026-11-03T10:30:25+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1588883789929569",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1588883789929569",
+          "link_verified": true,
+          "published_at": "2026-11-03T10:30:30+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-11-03T10:30:30+02:00"
     }
   },
   "runs": [
@@ -452,6 +474,17 @@
       "slot": "morning",
       "video_id": "riBnFMqWqHo",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/life-without-sunlight-the-secret-world-of-blac-ribnfm/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T10:30:30+02:00",
+      "slot": "morning",
+      "video_id": "SCelXVWWWiU",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/columbia-sts-107-the-damage-nobody-could-see-f-scelxv/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
