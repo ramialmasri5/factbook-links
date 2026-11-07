@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -135,6 +135,15 @@
       "description_ar": "كولومبيا STS-107: الضرر الذي لم يره أحد | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-11-02T18:30:10Z",
       "duration": "PT9M24S"
+    },
+    {
+      "video_id": "EE1z2xbqiLA",
+      "slug": "yellowstone-supervolcano-what-would-a-supereru-ee1z2x",
+      "title": "Yellowstone Supervolcano: What Would a Supereruption Actually Do? | Fact Book",
+      "title_ar": "بركان يلوستون العملاق: ماذا سيحدث فعلياً عند حدوث ثوران هائل؟ | كتاب الحقائق",
+      "description_ar": "بركان يلوستون العملاق: ماذا سيحدث فعلياً عند حدوث ثوران هائل؟ | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-11-06T18:30:24Z",
+      "duration": "PT9M14S"
     }
   ]
 }
