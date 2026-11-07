@@ -333,6 +333,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-11-03T10:30:30+02:00"
+    },
+    "EE1z2xbqiLA": {
+      "slug": "yellowstone-supervolcano-what-would-a-supereru-ee1z2x",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/yellowstone-supervolcano-what-would-a-supereru-ee1z2x/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1575790331240091",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1575790331240091",
+          "link_verified": true,
+          "published_at": "2026-11-07T20:30:31+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1593398902811391",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1593398902811391",
+          "link_verified": true,
+          "published_at": "2026-11-07T20:30:38+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-11-07T20:30:38+02:00"
     }
   },
   "runs": [
@@ -485,6 +507,17 @@
       "slot": "morning",
       "video_id": "SCelXVWWWiU",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/columbia-sts-107-the-damage-nobody-could-see-f-scelxv/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "at": "2026-11-07T20:30:38+02:00",
+      "slot": "evening",
+      "video_id": "EE1z2xbqiLA",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/yellowstone-supervolcano-what-would-a-supereru-ee1z2x/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
