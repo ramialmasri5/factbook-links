@@ -355,6 +355,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-11-07T20:30:38+02:00"
+    },
+    "d1FvwDTKRMY": {
+      "slug": "k-lauea-2018-when-hawaii-s-volcano-tore-the-gr-d1fvwd",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/k-lauea-2018-when-hawaii-s-volcano-tore-the-gr-d1fvwd/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1580238450795279",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1580238450795279",
+          "link_verified": true,
+          "published_at": "2026-11-11T20:30:22+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1597589612392320",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1597589612392320",
+          "link_verified": true,
+          "published_at": "2026-11-11T20:30:29+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-11-11T20:30:29+02:00"
     }
   },
   "runs": [
@@ -518,6 +540,17 @@
       "slot": "evening",
       "video_id": "EE1z2xbqiLA",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/yellowstone-supervolcano-what-would-a-supereru-ee1z2x/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "at": "2026-11-11T20:30:29+02:00",
+      "slot": "evening",
+      "video_id": "d1FvwDTKRMY",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/k-lauea-2018-when-hawaii-s-volcano-tore-the-gr-d1fvwd/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
