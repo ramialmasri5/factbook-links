@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 17,
   "videos": [
     {
       "video_id": "jyhvZ3bOKhM",
@@ -144,6 +144,15 @@
       "description_ar": "بركان يلوستون العملاق: ماذا سيحدث فعلياً عند حدوث ثوران هائل؟ | كتاب الحقائق. شاهد الفيديو كاملًا على YouTube.",
       "published_at": "2026-11-06T18:30:24Z",
       "duration": "PT9M14S"
+    },
+    {
+      "video_id": "d1FvwDTKRMY",
+      "slug": "k-lauea-2018-when-hawaii-s-volcano-tore-the-gr-d1fvwd",
+      "title": "Kīlauea 2018: When Hawaii’s Volcano Tore the Ground Open | Fact Book",
+      "title_ar": "بركان Kīlauea عام 2018: حينما شق بركان هاواي الأرض | سجل الحقائق",
+      "description_ar": "بركان Kīlauea عام 2018: حينما شق بركان هاواي الأرض | سجل الحقائق. شاهد الفيديو كاملًا على YouTube.",
+      "published_at": "2026-11-10T18:30:24Z",
+      "duration": "PT9M5S"
     }
   ]
 }
