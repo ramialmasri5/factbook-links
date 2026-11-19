@@ -399,6 +399,28 @@
       },
       "archive_complete": true,
       "updated_at": "2026-11-15T10:30:36+02:00"
+    },
+    "fXmiKTUobkU": {
+      "slug": "artemis-i-nasa-s-25-day-journey-around-the-moo-fxmikt",
+      "deeplink_url": "https://ramialmasri5.github.io/factbook-links/artemis-i-nasa-s-25-day-journey-around-the-moo-fxmikt/",
+      "facebook": {
+        "Rami Almasri": {
+          "status": "PASS",
+          "post_id": "348821181946949_1588839979935126",
+          "permalink": "https://www.facebook.com/1520068403478951/posts/1588839979935126",
+          "link_verified": true,
+          "published_at": "2026-11-19T10:30:29+02:00"
+        },
+        "Rami Almasri Plus": {
+          "status": "PASS",
+          "post_id": "241386205941452_1607087241442557",
+          "permalink": "https://www.facebook.com/1537177545100194/posts/1607087241442557",
+          "link_verified": true,
+          "published_at": "2026-11-19T10:30:38+02:00"
+        }
+      },
+      "archive_complete": true,
+      "updated_at": "2026-11-19T10:30:38+02:00"
     }
   },
   "runs": [
@@ -584,6 +606,17 @@
       "slot": "morning",
       "video_id": "XKwXEf4juU8",
       "deeplink": "https://ramialmasri5.github.io/factbook-links/mariana-trench-life-and-mystery-in-the-deep-oc-xkwxef/",
+      "result": {
+        "Rami Almasri": "PASS",
+        "Rami Almasri Plus": "PASS"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "at": "2026-11-19T10:30:38+02:00",
+      "slot": "morning",
+      "video_id": "fXmiKTUobkU",
+      "deeplink": "https://ramialmasri5.github.io/factbook-links/artemis-i-nasa-s-25-day-journey-around-the-moo-fxmikt/",
       "result": {
         "Rami Almasri": "PASS",
         "Rami Almasri Plus": "PASS"
